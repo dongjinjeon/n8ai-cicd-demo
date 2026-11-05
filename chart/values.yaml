@@ -1,5 +1,5 @@
 image:
-  repository: harbor.n8ai.org:8445/demo/n8ai-demo
+  repository: harbor.n8ai.org/demo/n8ai-demo
   tag: latest
   pullPolicy: Always
 
